@@ -6,3 +6,6 @@ Para un proyecto que implica desarrollo, testint y despliegue de  Infraestructur
 	DEV
 	QA
 	PRODUCCION
+
+En el caso de crear una nueva funcionalidad se deberá integrar el fix con la rama que hayamos considerado la principal (en este caso podría Rama1)
+Esto depende de la estrategia de branching asumida.
