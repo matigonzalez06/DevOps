@@ -1,0 +1,8 @@
+Matías González Bracco
+CI 42790180
+
+Para un proyecto que implica desarrollo, testint y despliegue de  Infraestructura como código utilizaría las siguientes ramas:
+
+	DEV
+	QA
+	PRODUCCION
